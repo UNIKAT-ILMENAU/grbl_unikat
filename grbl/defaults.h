@@ -88,4 +88,8 @@
   #include "defaults/defaults_simulator.h"
 #endif
 
+#ifdef DEFAULTS_STEPCRAFT840
+  #include "defaults/defaults_stepcraft840.h"
+#endif
+
 #endif
